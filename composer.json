@@ -1,0 +1,15 @@
+{
+  "name": "kitzberger/workspaces-boost",
+  "type": "typo3-cms-extension",
+  "description": "TYPO3 Workspaces: Performance boost by SQL indices",
+  "homepage": "https://github.com/kitzberger/workspaces_boost",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "keywords": [
+    "TYPO3 CMS"
+  ],
+  "require": {
+    "typo3/cms-core": ">=8.7.0"
+  }
+}
