@@ -8,12 +8,12 @@ $EM_CONF[$_EXTKEY] = [
 	'createDirs' => '',
 	'clearCacheOnLoad' => 0,
 	'author' => 'Philipp Kitzberger',
-	'author_email' => 'philipp@kitze.net',
+	'author_email' => 'typo3@kitze.net',
 	'author_company' => '',
-	'version' => '1.0.0',
+	'version' => '1.0.1',
 	'constraints' => [
 		'depends' => [
-			'typo3' => '8.7.0-',
+			'typo3' => '8.7.0-8.7.99',
 		],
 		'conflicts' => [],
 		'suggests' => [],
